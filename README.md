@@ -1,2 +1,2 @@
-# MontyHall-
-Lab 1 - Monty Hall Exercise.
+# Monty Hall - Simulation 
+Lab 1 - Monty Hall Exercise. ITBA
